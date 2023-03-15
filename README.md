@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @saro-tw
-- 👀 I’m interested in web3
+- 👀 I’m interested in AI,ML,Audio,GPT-3
 - 🌱 I’m currently learning everything - I am brand new to coding.
-- 💞️ I’m looking to collaborate on DAO creation.
+- 💞️ I’m looking to collaborate on audio projects.
 - 📫 How to reach me - mattsaraceni.com
